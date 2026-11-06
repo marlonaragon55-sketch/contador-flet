@@ -22,7 +22,7 @@ Requisito: tener Python instalado (consulta la versión mínima en la [guía ofi
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/marlonaragon55-sketch/contador-flet.git
 cd TU_REPOSITORIO
 
 # 2. Crear y activar un entorno virtual
